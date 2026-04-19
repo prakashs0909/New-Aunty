@@ -35,11 +35,28 @@ https://github.com/prakashs0909/New-Aunty
   <img src="./mobile-view.png" width="45%" />
 </p>
 
-## ⚙️ Installation  
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/prakashs0909/New-Aunty.git
 cd New-Aunty
+```
+
+### 2. Install dependencies
+
+#### Start
+
+```bash
 npm install
 npm start
 ```
+
+---
+
+
+## ⭐ Show your support
+
+If you like this project, please ⭐ the repo!
