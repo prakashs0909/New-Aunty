@@ -28,6 +28,13 @@ https://github.com/prakashs0909/New-Aunty
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./home.png" width="45%" />
+  <img src="./mobile-view.png" width="45%" />
+</p>
+
 ## ⚙️ Installation  
 
 ```bash
