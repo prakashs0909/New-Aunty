@@ -47,15 +47,32 @@ cd New-Aunty
 
 ### 2. Install dependencies
 
-#### Start
-
 ```bash
+cd New-Aunty
 npm install
-npm start
 ```
 
 ---
 
+### 3. Setup Environment Variables
+
+Create a `.env` file in backend folder:
+
+```env
+REACT_APP_NEWS_API=your_news_api
+```
+
+---
+
+### 4. Run the app
+
+#### Start
+
+```bash
+npm start
+```
+
+---
 
 ## ⭐ Show your support
 
